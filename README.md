@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<h3>📚 <i>Conteúdo do Curso</i></h3>
+<h3>📚 <i>Suíte de testes</i></h3>
 
 - Não acessar sem token.
 - Inclusão/Alteração de conta.
@@ -20,7 +20,6 @@
 - Teste de Contas.
 - Teste de Movimentação.
 - Teste de Saldo e autenticação.
-- Suíte de Testes.
 <br>
 <br>
 <br>
