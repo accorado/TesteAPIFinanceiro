@@ -39,6 +39,7 @@ public class BarrigaTest extends BaseTest {
 				.extract().path("token");
 		RestAssured.requestSpecification.header("Authorization", "JWT " + TOKEN);
 	}
+	
 	@Test
 	public void t02_deveIncluirContaComSucesso() {
 		CONTA_ID = given()
